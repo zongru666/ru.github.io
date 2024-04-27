@@ -1,0 +1,12 @@
+---
+layout:       post
+title:        "RU blog"
+author:       "RU"
+header-style: text
+catalog:      true
+tags:
+    -web
+    -Javascript
+---
+
+# test RU blog
