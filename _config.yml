@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: zongru.lee@qq.com
 description: "这里是 @RU 的个人博客，与你一起发现更大的世界"
 keyword: "RU Blog, 博客, 个人网站, 互联网, Web, JavaScript, React, React Native, 前端, 设计"
-url: "https://huangxuan.me" # your host, for absolute URL
+url: "https://github.com/zongru666" # your host, for absolute URL
 baseurl: "" # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
@@ -13,11 +13,11 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username: huxpro
-zhihu_username: huxpro
-github_username: huxpro
-twitter_username: huxpro
-#facebook_username:  huxpro
+weibo_username: RU
+zhihu_username: RU
+github_username: RU
+twitter_username: RU
+#facebook_username:  RU
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -74,8 +74,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true # whether or not using Sidebar.
-sidebar-about-description: "要做一个有 swag 的程序员 <br> React Team @ Meta"
-sidebar-avatar: https://github.com/Huxpro.png # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "要做一个有理想的人 <br> React Team @ Meta"
+sidebar-avatar: https://github.com/RU.png # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
 featured-tags: true # whether or not using Feature-Tags
