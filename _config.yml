@@ -1,5 +1,5 @@
 # Site settings
-title: Hux Blog
+title: RU Blog
 SEOTitle: RU的博客 | RU Blog
 header-img: img/home-bg.jpg
 email: zongru.lee@qq.com
@@ -15,9 +15,9 @@ future: true
 RSS: false
 weibo_username: RU
 zhihu_username: RU
-github_username: RU
-twitter_username: RU
-#facebook_username:  RU
+github_username: zongru666
+twitter_username: none
+#facebook_username:  none
 #linkedin_username:  firstname-lastname-idxxxx
 
 # Build settings
@@ -59,7 +59,7 @@ kramdown:
       start_line: 1
 
 # Disqus settings
-disqus_username: hux
+disqus_username: RU
 
 # Netease settings
 netease_comment: false
